@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Johan! 👋⚡
 
-<!--
-**johanjoseph29/johanjoseph29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> The secret of getting ahead is getting started.  
+  
 
-Here are some ideas to get you started:
+🚀 Backend developer with a passion for building **efficient, scalable, and high-performance systems**.  
+💡 Love exploring new technologies, optimizing code, and solving real-world problems.  
+🎯 Always striving to write clean, maintainable, and robust backend solutions.  
+📫 Reach me at: ✉️ johanj2036@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats & Most Used Languages
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johanjoseph29&show_icons=true&theme=radical"/>&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanjoseph29&layout=compact&theme=radical"/>
+</div>
+
