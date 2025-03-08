@@ -1,6 +1,6 @@
 ## Hi, I'm Johan! 👋⚡  
 
-> The secret of getting ahead is getting started.  
+> Success begins where comfort ends—push your limits and redefine possible. 
 
 🚀 Backend developer with a passion for building efficient, scalable, and high-performance systems.  
 💡 Love exploring new technologies, optimizing code, and solving real-world problems.  
