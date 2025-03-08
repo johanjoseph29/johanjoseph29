@@ -9,6 +9,7 @@
 
 ### 📈 GitHub Stats & Most Used Languages  
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johanjoseph29&show_icons=true&theme=radical" style="display:inline-block;"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanjoseph29&layout=compact&theme=radical" style="display:inline-block;"/>  
-</div>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johanjoseph29&show_icons=true&theme=radical"/>&nbsp;&nbsp;  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanjoseph29&layout=compact&theme=radical"/>  
+</div>
+
