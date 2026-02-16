@@ -97,13 +97,6 @@ Continuous growth.
 
 ---
 
-## 🤝 Let's Connect
-
-- 📧 Email: johanj2036@gmail.com  
-- 💻 GitHub: https://github.com/johanjoseph29  
-
----
-
 <div align="center">
 
 ### ⚡ Engineering scalable systems. Building intelligent solutions. Always leveling up.
