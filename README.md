@@ -72,16 +72,6 @@ Hi! I'm **Johan**, a backend developer passionate about building scalable system
 - Web scraping & automated web task execution  
 - LLM-powered decision systems  
 
-### 🧠 Healthcare Chatbot
-- DistilGPT-2 based chatbot  
-- Built with Streamlit  
-- Real-time response generation  
-
-### 🎮 AI Strategy Agent
-- YOLO-based object detection  
-- AI-generated strategy planning  
-- Game automation experimentation  
-
 ### 📊 Stock & Portfolio Analysis
 - Flask-based backend API  
 - AI-driven financial insights  
