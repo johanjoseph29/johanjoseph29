@@ -52,14 +52,6 @@ I'm **Johan Joseph**, a backend developer interested in AI-powered applications,
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=johanjoseph29&theme=react-dark" />
-
-</div>
-
 ---
 
 <div align="center">
