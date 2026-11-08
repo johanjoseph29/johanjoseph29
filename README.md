@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### ⚡ Backend Developer | AI Systems Builder | Automation Enthusiast
+### Backend Developer | AI Systems Builder
 
-> **"Success begins where comfort ends — push your limits and redefine possible."**
+*"Building intelligent solutions with clean and scalable code."*
 
 </div>
 
@@ -12,50 +12,47 @@
 
 ## 👋 About Me
 
-Hi! I'm **Johan**, a backend developer passionate about building scalable systems, AI-powered applications, and high-performance architectures.
+I'm **Johan Joseph**, a backend developer interested in AI-powered applications, automation, and scalable systems.
 
-- 🔥 Focused on clean, maintainable backend systems  
-- 🤖 Building AI agents & intelligent automation tools  
-- ⚡ Performance optimization & system design enthusiast  
-- 🧠 Exploring LLM fine-tuning & deployment  
-- 📍 Based in India  
-- 📫 Reach me at: **johanj2036@gmail.com**
+- 💻 Backend development with Python and Flask
+- 🤖 Exploring AI and intelligent automation
+- ⚡ Passionate about system design and performance
+- 📍 India
+- 📫 **Email:** johanj2036@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Backend & APIs
-- Python
-- Flask
-- FastAPI
-- REST APIs
-- SQL
-- System Design
+**Languages:** Python, SQL
 
-### 🤖 AI / ML
-- LangChain
-- Ollama
-- YOLOv8
-- Streamlit
-- DistilGPT-2
-- LLM Integration
+**Backend:** Flask, REST APIs
 
-### 🗄️ Databases
-- MySQL
-- PostgreSQL
-- SQLite
+**AI/ML:** LangChain, Ollama, YOLOv8
 
-### 🌐 Tools & Dev
-- Git & GitHub
-- VS Code
-- Linux
-- Postman
-- Docker (Learning)
+**Databases:** MySQL, PostgreSQL
 
 ---
 
-## 📈 Contribution Graph
+## 🚀 Featured Projects
+
+### 📡 WiFi Smart Attendance System
+- ESP32-based attendance management system
+- Token-based attendance verification
+- Flask backend with secure validation
+
+### 🎮 Knight's Trial
+- 2D Knight Platformer Game
+- Developed using Godot 4
+
+### 📊 AI-Powered Stock Analysis
+- Flask-based backend API
+- AI-driven financial insights
+- Portfolio performance analysis
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -65,40 +62,8 @@ Hi! I'm **Johan**, a backend developer passionate about building scalable system
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 AI Agent Systems
-- Intelligent automation agents  
-- Web scraping & automated web task execution  
-- LLM-powered decision systems  
-
-### 📊 Stock & Portfolio Analysis
-- Flask-based backend API  
-- AI-driven financial insights  
-- Portfolio performance evaluation  
-
----
-
-## 🎯 Current Focus
-
-- 🔬 Advanced AI Agents  
-- 🧠 LLM fine-tuning & local deployment  
-- ⚡ Backend performance optimization  
-- 🌍 Real-world automation tools  
-
----
-
-## 🌟 What I Believe
-
-Clean code.  
-Scalable architecture.  
-Performance first.  
-Continuous growth.  
-
----
-
 <div align="center">
 
-### ⚡ Engineering scalable systems. Building intelligent solutions. Always leveling up.
+### ⚡ Building intelligent systems. Learning. Improving. 
 
 </div>
